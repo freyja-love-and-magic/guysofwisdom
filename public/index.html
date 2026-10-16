@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Guys of Wisdom</title>
+<meta name="description" content="Woo woo koans, spoken to you by wise guys.">
+<style>
+  :root {
+    --bg: #14111f;
+    --card: #1f1a33;
+    --ink: #f3ecff;
+    --muted: #a99cc8;
+    --accent: #f4b860;
+    --line: #382f58;
+  }
+  @media (prefers-color-scheme: light) {
+    :root { --bg: #f7f3ea; --card: #fffdf8; --ink: #241c3a; --muted: #6b5f86; --accent: #b4580e; --line: #e2d9c4; }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--ink);
+    font: 18px/1.55 Georgia, 'Times New Roman', serif;
+  }
+  main { max-width: 640px; margin: 0 auto; padding: 32px 16px 64px; }
+  h1 { font-size: 2rem; margin: 0 0 4px; letter-spacing: .02em; }
+  .tag { color: var(--muted); margin: 0 0 28px; }
+  #categories { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 8px; }
+  .category {
+    display: grid; gap: 2px; text-align: left; padding: 14px 16px;
+    background: var(--card); color: var(--ink); border: 1px solid var(--line);
+  }
+  .category:hover:not(:disabled) { border-color: var(--accent); }
+  .category span { color: var(--muted); font-size: .85rem; }
+  .avatar {
+    display: inline-grid; place-items: center; width: 1.9em; height: 1.9em; border-radius: 50%;
+    color: #fff; font-weight: bold; font-size: .9rem; vertical-align: middle;
+  }
+  .avatar.unknown { background: var(--card); color: var(--muted); border: 1px dashed var(--line); }
+  #by { margin: 0 0 12px; color: var(--muted); }
+  #met-box { margin-top: 32px; text-align: center; }
+  #met { display: flex; gap: 8px; justify-content: center; }
+  #met-label { color: var(--muted); font-size: .85rem; margin: 6px 0 0; }
+  button {
+    font: inherit; cursor: pointer; border-radius: 10px; border: 0; padding: 12px 20px;
+    background: var(--accent); color: #1a1226;
+  }
+  button:disabled { opacity: .5; cursor: wait; }
+  #status { color: var(--muted); font-size: .9rem; margin: 10px 0 0; text-align: center; }
+  #koan { margin: 28px 0 12px; font-size: 1.3rem; font-style: italic; }
+  audio { width: 100%; }
+  audio:not([src]) { display: none; }
+  #message { min-height: 1.5em; color: var(--accent); }
+  #paywall { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 16px; margin-top: 20px; }
+  #paywall[hidden], [hidden] { display: none !important; }
+  #offers { display: grid; gap: 8px; }
+  .offer { text-align: left; }
+  #pay { margin-top: 12px; width: 100%; }
+  details { margin-top: 40px; color: var(--muted); font-size: .85rem; }
+  textarea { width: 100%; margin-top: 8px; font: 12px monospace; }
+  details button { background: transparent; color: var(--muted); border: 1px solid var(--line); padding: 6px 10px; font-size: .8rem; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Guys of Wisdom</h1>
+  <p class="tag">Woo woo koans, spoken to you by wise guys.</p>
+
+  <div id="categories"></div>
+  <p id="status"></p>
+
+  <p id="message" role="status"></p>
+  <p id="koan"></p>
+  <p id="by"></p>
+  <audio id="audio" controls></audio>
+
+  <section id="paywall" hidden>
+    <p>Keep going?</p>
+    <div id="offers"></div>
+    <div id="payment" hidden><div id="payment-element"></div></div>
+    <button id="pay" hidden>Pay</button>
+  </section>
+
+  <section id="met-box">
+    <div id="met"></div>
+    <p id="met-label"></p>
+  </section>
+
+  <details>
+    <summary>Your key</summary>
+    <p>Your purchases belong to a key stored in this browser. Back it up to use it elsewhere; keep it private.</p>
+    <button id="show-key">Show key</button>
+    <button id="restore-key">Restore from the text below</button>
+    <textarea id="key-box" rows="2" hidden></textarea>
+  </details>
+</main>
+<script src="https://js.stripe.com/v3/"></script>
+<script src="/app.js"></script>
+</body>
+</html>

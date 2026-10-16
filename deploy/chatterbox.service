@@ -1,0 +1,14 @@
+[Unit]
+Description=Chatterbox TTS for Guys of Wisdom
+After=network.target
+
+[Service]
+WorkingDirectory=/opt/guysofwisdom/chatterbox
+# /etc/chatterbox.env sets CHATTERBOX_TOKEN and HOST (bind to localhost or a private address only)
+EnvironmentFile=/etc/chatterbox.env
+ExecStart=/opt/guysofwisdom/chatterbox/venv/bin/uvicorn server:app --host ${HOST} --port 8000
+Restart=always
+User=guys
+
+[Install]
+WantedBy=multi-user.target

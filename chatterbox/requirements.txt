@@ -1,0 +1,4 @@
+chatterbox-tts
+fastapi
+uvicorn
+setuptools<81  # resemble-perth imports pkg_resources

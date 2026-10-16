@@ -1,0 +1,244 @@
+{
+  "category": "pumpup",
+  "personas": {
+    "Marky": {
+      "reference_audio": "voices/marky.wav"
+    },
+    "Johnny": {
+      "reference_audio": "voices/johnny.wav"
+    },
+    "Leo": {
+      "reference_audio": "voices/leo.wav"
+    },
+    "Raff": {
+      "reference_audio": "voices/raff.wav"
+    }
+  },
+  "lines": [
+    {
+      "id": "pumpup_01",
+      "persona": "Johnny",
+      "text": "Get up! Get UP! The day ain't gonna grind itself!",
+      "elevenlabs_text": "[shouting] Get up! Get UP! The day ain't gonna grind itself!",
+      "exaggeration": 0.75,
+      "cfg_weight": 0.3,
+      "output_file": "pumpup/johnny_pumpup_01.wav"
+    },
+    {
+      "id": "pumpup_02",
+      "persona": "Johnny",
+      "text": "Coffee. Shower. Domination. In that order. Let's go!",
+      "elevenlabs_text": "[fast] Coffee. Shower. Domination. In that order. Let's go!",
+      "exaggeration": 0.75,
+      "cfg_weight": 0.3,
+      "output_file": "pumpup/johnny_pumpup_02.wav"
+    },
+    {
+      "id": "pumpup_03",
+      "persona": "Johnny",
+      "text": "You feel that? That's the fire, baby! Feed it!",
+      "elevenlabs_text": "[excited] You feel that? That's the fire, baby! Feed it!",
+      "exaggeration": 0.75,
+      "cfg_weight": 0.3,
+      "output_file": "pumpup/johnny_pumpup_03.wav"
+    },
+    {
+      "id": "pumpup_04",
+      "persona": "Johnny",
+      "text": "Nobody's handin' you nothin'. So you go out there and you TAKE it!",
+      "elevenlabs_text": "Nobody's handin' you nothin'. So you go out there and you TAKE it!",
+      "exaggeration": 0.5,
+      "cfg_weight": 0.5,
+      "output_file": "pumpup/johnny_pumpup_04.wav"
+    },
+    {
+      "id": "pumpup_05",
+      "persona": "Johnny",
+      "text": "Tired? Tired's for mooks! You ain't a mook!",
+      "elevenlabs_text": "[shouting] Tired? Tired's for mooks! You ain't a mook!",
+      "exaggeration": 0.75,
+      "cfg_weight": 0.3,
+      "output_file": "pumpup/johnny_pumpup_05.wav"
+    },
+    {
+      "id": "pumpup_06",
+      "persona": "Johnny",
+      "text": "Snooze button? Fuhgeddaboudit. Feet on the floor. Now!",
+      "elevenlabs_text": "[annoyed] Snooze button? Fuhgeddaboudit. Feet on the floor. Now!",
+      "exaggeration": 0.75,
+      "cfg_weight": 0.3,
+      "output_file": "pumpup/johnny_pumpup_06.wav"
+    },
+    {
+      "id": "pumpup_07",
+      "persona": "Johnny",
+      "text": "One more rep! Then another one! Then I'll tell ya when to stop!",
+      "elevenlabs_text": "[laughs] One more rep! Then another one! Then I'll tell ya when to stop!",
+      "exaggeration": 0.75,
+      "cfg_weight": 0.3,
+      "output_file": "pumpup/johnny_pumpup_07.wav"
+    },
+    {
+      "id": "pumpup_08",
+      "persona": "Marky",
+      "text": "Every mornin', you wake up hungry. That's how empires get built.",
+      "elevenlabs_text": "[slowly] Every mornin', you wake up hungry. That's how empires get built.",
+      "exaggeration": 0.4,
+      "cfg_weight": 0.5,
+      "output_file": "pumpup/marky_pumpup_08.wav"
+    },
+    {
+      "id": "pumpup_09",
+      "persona": "Marky",
+      "text": "I started with nothin'. Nothin'. You got more than I had. Use it.",
+      "elevenlabs_text": "I started with nothin'. Nothin'. You got more than I had. Use it.",
+      "exaggeration": 0.5,
+      "cfg_weight": 0.5,
+      "output_file": "pumpup/marky_pumpup_09.wav"
+    },
+    {
+      "id": "pumpup_10",
+      "persona": "Marky",
+      "text": "Comfort's a trap, kid. The work? The work sets you free.",
+      "elevenlabs_text": "[sighs] Comfort's a trap, kid. The work? The work sets you free.",
+      "exaggeration": 0.4,
+      "cfg_weight": 0.5,
+      "output_file": "pumpup/marky_pumpup_10.wav"
+    },
+    {
+      "id": "pumpup_11",
+      "persona": "Marky",
+      "text": "Discipline. Loyalty. Hustle. You do those three, you never go hungry.",
+      "elevenlabs_text": "Discipline. Loyalty. Hustle. You do those three, you never go hungry.",
+      "exaggeration": 0.5,
+      "cfg_weight": 0.5,
+      "output_file": "pumpup/marky_pumpup_11.wav"
+    },
+    {
+      "id": "pumpup_12",
+      "persona": "Marky",
+      "text": "Sweat now, or bleed later. Your choice.",
+      "elevenlabs_text": "[clears throat] Sweat now, or bleed later. Your choice.",
+      "exaggeration": 0.5,
+      "cfg_weight": 0.5,
+      "output_file": "pumpup/marky_pumpup_12.wav"
+    },
+    {
+      "id": "pumpup_13",
+      "persona": "Marky",
+      "text": "Show up every day. That's ninety percent of it. The rest is guts.",
+      "elevenlabs_text": "Show up every day. That's ninety percent of it. The rest is guts.",
+      "exaggeration": 0.5,
+      "cfg_weight": 0.5,
+      "output_file": "pumpup/marky_pumpup_13.wav"
+    },
+    {
+      "id": "pumpup_14",
+      "persona": "Leo",
+      "text": "Rise and grind, sweetheart. And look good doin' it.",
+      "elevenlabs_text": "[chuckles] Rise and grind, sweetheart. And look good doin' it.",
+      "exaggeration": 0.5,
+      "cfg_weight": 0.5,
+      "output_file": "pumpup/leo_pumpup_14.wav"
+    },
+    {
+      "id": "pumpup_15",
+      "persona": "Leo",
+      "text": "Winners don't wait for the mood. They make the mood.",
+      "elevenlabs_text": "[warmly] Winners don't wait for the mood. They make the mood.",
+      "exaggeration": 0.5,
+      "cfg_weight": 0.5,
+      "output_file": "pumpup/leo_pumpup_15.wav"
+    },
+    {
+      "id": "pumpup_16",
+      "persona": "Leo",
+      "text": "Dress like you already own the place. Then go buy it.",
+      "elevenlabs_text": "[mischievously] Dress like you already own the place. Then go buy it.",
+      "exaggeration": 0.5,
+      "cfg_weight": 0.5,
+      "output_file": "pumpup/leo_pumpup_16.wav"
+    },
+    {
+      "id": "pumpup_17",
+      "persona": "Leo",
+      "text": "Big day ahead. Stand up straight. Walk in like you belong.",
+      "elevenlabs_text": "[softly] Big day ahead. Stand up straight. Walk in like you belong.",
+      "exaggeration": 0.4,
+      "cfg_weight": 0.5,
+      "output_file": "pumpup/leo_pumpup_17.wav"
+    },
+    {
+      "id": "pumpup_18",
+      "persona": "Leo",
+      "text": "Smile at the competition. Then outwork 'em. That's style.",
+      "elevenlabs_text": "Smile at the competition. Then outwork 'em. That's style.",
+      "exaggeration": 0.5,
+      "cfg_weight": 0.5,
+      "output_file": "pumpup/leo_pumpup_18.wav"
+    },
+    {
+      "id": "pumpup_19",
+      "persona": "Raff",
+      "text": "Everybody else is sleepin'. You know what that means? We're already winnin'.",
+      "elevenlabs_text": "[suspicious] Everybody else is sleepin'. You know what that means? We're already winnin'.",
+      "exaggeration": 0.5,
+      "cfg_weight": 0.5,
+      "output_file": "pumpup/raff_pumpup_19.wav"
+    },
+    {
+      "id": "pumpup_20",
+      "persona": "Raff",
+      "text": "The early bird gets the worm. And I'm tellin' ya, I love worms.",
+      "elevenlabs_text": "[whispers] The early bird gets the worm. And I'm tellin' ya, I love worms.",
+      "exaggeration": 0.4,
+      "cfg_weight": 0.5,
+      "output_file": "pumpup/raff_pumpup_20.wav"
+    },
+    {
+      "id": "pumpup_21",
+      "persona": "Raff",
+      "text": "Oh, you're gonna skip the gym? Sure. And I'm the Pope.",
+      "elevenlabs_text": "[sarcastic] Oh, you're gonna skip the gym? Sure. And I'm the Pope.",
+      "exaggeration": 0.5,
+      "cfg_weight": 0.5,
+      "output_file": "pumpup/raff_pumpup_21.wav"
+    },
+    {
+      "id": "pumpup_22",
+      "persona": "Raff",
+      "text": "Doubters? Let 'em talk. Then let 'em watch.",
+      "elevenlabs_text": "[scoffs] Doubters? Let 'em talk. Then let 'em watch.",
+      "exaggeration": 0.5,
+      "cfg_weight": 0.5,
+      "output_file": "pumpup/raff_pumpup_22.wav"
+    },
+    {
+      "id": "pumpup_23",
+      "persona": "Raff",
+      "text": "Hair done, shoes shined, attitude locked in. Now we go to work.",
+      "elevenlabs_text": "Hair done, shoes shined, attitude locked in. Now we go to work.",
+      "exaggeration": 0.5,
+      "cfg_weight": 0.5,
+      "output_file": "pumpup/raff_pumpup_23.wav"
+    },
+    {
+      "id": "pumpup_24",
+      "persona": "Raff",
+      "text": "Ohhh! Look at this one! Up before the sun!",
+      "elevenlabs_text": "Ohhh! [excited] Look at this one! Up before the sun!",
+      "exaggeration": 0.75,
+      "cfg_weight": 0.3,
+      "output_file": "pumpup/raff_pumpup_24.wav"
+    },
+    {
+      "id": "pumpup_25",
+      "persona": "Marky",
+      "text": "Pressure makes diamonds, kid. And you? You're a diamond.",
+      "elevenlabs_text": "[slowly] Pressure makes diamonds, kid. And you? You're a diamond.",
+      "exaggeration": 0.4,
+      "cfg_weight": 0.5,
+      "output_file": "pumpup/marky_pumpup_25.wav"
+    }
+  ]
+}

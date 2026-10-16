@@ -1,0 +1,235 @@
+{
+  "category": "koans",
+  "personas": {
+    "Marky": {
+      "reference_audio": "voices/marky.wav"
+    },
+    "Johnny": {
+      "reference_audio": "voices/johnny.wav"
+    },
+    "Leo": {
+      "reference_audio": "voices/leo.wav"
+    },
+    "Raff": {
+      "reference_audio": "voices/raff.wav"
+    }
+  },
+  "lines": [
+    {
+      "id": "koan_01",
+      "persona": "Leo",
+      "text": "A student asked the guru, where does the moon go in the daytime? The guru said, where does your attention go when you are not looking at it? The student looked, and the moon was there.",
+      "elevenlabs_text": "A student asked the guru, where does the moon go in the daytime? The guru said, where does your attention go when you are not looking at it? The student looked, and the moon was there.",
+      "exaggeration": 0.4,
+      "cfg_weight": 0.5,
+      "output_file": "koans/leo_koan_01.wav"
+    },
+    {
+      "id": "koan_02",
+      "persona": "Marky",
+      "text": "The river does not rush to the ocean. The ocean is already inside the river. Stop swimming, and notice what is carrying you.",
+      "elevenlabs_text": "The river does not rush to the ocean. The ocean is already inside the river. Stop swimming, and notice what is carrying you.",
+      "exaggeration": 0.4,
+      "cfg_weight": 0.5,
+      "output_file": "koans/marky_koan_02.wav"
+    },
+    {
+      "id": "koan_03",
+      "persona": "Johnny",
+      "text": "You are not a drop in the ocean. You are the entire ocean in a drop. So stop apologizing for being small.",
+      "elevenlabs_text": "You are not a drop in the ocean. You are the entire ocean in a drop. So stop apologizing for being small.",
+      "exaggeration": 0.4,
+      "cfg_weight": 0.5,
+      "output_file": "koans/johnny_koan_03.wav"
+    },
+    {
+      "id": "koan_04",
+      "persona": "Raff",
+      "text": "A seeker climbed the mountain to ask what the universe wants. The wind answered, nothing. The seeker was disappointed, and then relieved.",
+      "elevenlabs_text": "A seeker climbed the mountain to ask what the universe wants. The wind answered, nothing. The seeker was disappointed, and then relieved.",
+      "exaggeration": 0.4,
+      "cfg_weight": 0.5,
+      "output_file": "koans/raff_koan_04.wav"
+    },
+    {
+      "id": "koan_05",
+      "persona": "Marky",
+      "text": "Before you can empty your cup, you must admit it was never yours. Whose cup is it, then? Drink anyway.",
+      "elevenlabs_text": "Before you can empty your cup, you must admit it was never yours. Whose cup is it, then? Drink anyway.",
+      "exaggeration": 0.4,
+      "cfg_weight": 0.5,
+      "output_file": "koans/marky_koan_05.wav"
+    },
+    {
+      "id": "koan_06",
+      "persona": "Leo",
+      "text": "The crystal does not hold the light. The crystal is the light, agreeing to be slow for a while.",
+      "elevenlabs_text": "The crystal does not hold the light. The crystal is the light, agreeing to be slow for a while.",
+      "exaggeration": 0.4,
+      "cfg_weight": 0.5,
+      "output_file": "koans/leo_koan_06.wav"
+    },
+    {
+      "id": "koan_07",
+      "persona": "Marky",
+      "text": "If a tree falls in the forest and nobody hears it, the forest hears it. You are the forest. Why are you pretending you are only the listener?",
+      "elevenlabs_text": "If a tree falls in the forest and nobody hears it, the forest hears it. You are the forest. Why are you pretending you are only the listener?",
+      "exaggeration": 0.4,
+      "cfg_weight": 0.5,
+      "output_file": "koans/marky_koan_07.wav"
+    },
+    {
+      "id": "koan_08",
+      "persona": "Raff",
+      "text": "The master said, the answer is in the silence between your thoughts. The student said, I do not have any silence. The master said, then that is the answer.",
+      "elevenlabs_text": "The master said, the answer is in the silence between your thoughts. The student said, I do not have any silence. The master said, then that is the answer.",
+      "exaggeration": 0.4,
+      "cfg_weight": 0.5,
+      "output_file": "koans/raff_koan_08.wav"
+    },
+    {
+      "id": "koan_09",
+      "persona": "Leo",
+      "text": "Everything you want is already vibrating at your frequency. You are not looking for it. You are tuning out of the static you built to avoid it.",
+      "elevenlabs_text": "Everything you want is already vibrating at your frequency. You are not looking for it. You are tuning out of the static you built to avoid it.",
+      "exaggeration": 0.4,
+      "cfg_weight": 0.5,
+      "output_file": "koans/leo_koan_09.wav"
+    },
+    {
+      "id": "koan_10",
+      "persona": "Raff",
+      "text": "Two monks argued over whether the flag moved or the wind moved. A third monk said, it is your mind that is waving. The first two monks stopped speaking to him.",
+      "elevenlabs_text": "Two monks argued over whether the flag moved or the wind moved. A third monk said, it is your mind that is waving. The first two monks stopped speaking to him.",
+      "exaggeration": 0.4,
+      "cfg_weight": 0.5,
+      "output_file": "koans/raff_koan_10.wav"
+    },
+    {
+      "id": "koan_11",
+      "persona": "Leo",
+      "text": "Your aura is not a color. Your aura is the weather inside the room where you live. Open a window.",
+      "elevenlabs_text": "Your aura is not a color. Your aura is the weather inside the room where you live. Open a window.",
+      "exaggeration": 0.4,
+      "cfg_weight": 0.5,
+      "output_file": "koans/leo_koan_11.wav"
+    },
+    {
+      "id": "koan_12",
+      "persona": "Johnny",
+      "text": "The student asked, how long until I am enlightened? The teacher said, how long until you are done being someone who is not? The student asked for a shorter answer. The teacher said, now.",
+      "elevenlabs_text": "The student asked, how long until I am enlightened? The teacher said, how long until you are done being someone who is not? The student asked for a shorter answer. The teacher said, now.",
+      "exaggeration": 0.4,
+      "cfg_weight": 0.5,
+      "output_file": "koans/johnny_koan_12.wav"
+    },
+    {
+      "id": "koan_13",
+      "persona": "Leo",
+      "text": "The stars are not far away. Distance is just the universe's way of giving you something to walk toward.",
+      "elevenlabs_text": "The stars are not far away. Distance is just the universe's way of giving you something to walk toward.",
+      "exaggeration": 0.4,
+      "cfg_weight": 0.5,
+      "output_file": "koans/leo_koan_13.wav"
+    },
+    {
+      "id": "koan_14",
+      "persona": "Raff",
+      "text": "A man spent forty years seeking his true self. He found it sitting on the porch waiting for him, slightly annoyed at the delay.",
+      "elevenlabs_text": "A man spent forty years seeking his true self. He found it sitting on the porch waiting for him, slightly annoyed at the delay.",
+      "exaggeration": 0.4,
+      "cfg_weight": 0.5,
+      "output_file": "koans/raff_koan_14.wav"
+    },
+    {
+      "id": "koan_15",
+      "persona": "Leo",
+      "text": "Gravity is the earth saying I love you, and you saying I know, and neither of you ever letting go.",
+      "elevenlabs_text": "Gravity is the earth saying I love you, and you saying I know, and neither of you ever letting go.",
+      "exaggeration": 0.4,
+      "cfg_weight": 0.5,
+      "output_file": "koans/leo_koan_15.wav"
+    },
+    {
+      "id": "koan_16",
+      "persona": "Marky",
+      "text": "When the mind is a still pond, the sky can finally see itself. Do not throw a stone to check if the pond is working.",
+      "elevenlabs_text": "When the mind is a still pond, the sky can finally see itself. Do not throw a stone to check if the pond is working.",
+      "exaggeration": 0.4,
+      "cfg_weight": 0.5,
+      "output_file": "koans/marky_koan_16.wav"
+    },
+    {
+      "id": "koan_17",
+      "persona": "Raff",
+      "text": "The teacher held up an empty hand. The student said, it is empty. The teacher said, look again. The student said, it is full of hand.",
+      "elevenlabs_text": "The teacher held up an empty hand. The student said, it is empty. The teacher said, look again. The student said, it is full of hand.",
+      "exaggeration": 0.4,
+      "cfg_weight": 0.5,
+      "output_file": "koans/raff_koan_17.wav"
+    },
+    {
+      "id": "koan_18",
+      "persona": "Johnny",
+      "text": "Every breath is a small birth and a small death. You have done this thousands of times today without applause. Take a bow.",
+      "elevenlabs_text": "Every breath is a small birth and a small death. You have done this thousands of times today without applause. Take a bow.",
+      "exaggeration": 0.4,
+      "cfg_weight": 0.5,
+      "output_file": "koans/johnny_koan_18.wav"
+    },
+    {
+      "id": "koan_19",
+      "persona": "Marky",
+      "text": "Chasing the universe's plan is like chasing your own shadow at noon. Stand still, and notice it was always under you.",
+      "elevenlabs_text": "Chasing the universe's plan is like chasing your own shadow at noon. Stand still, and notice it was always under you.",
+      "exaggeration": 0.4,
+      "cfg_weight": 0.5,
+      "output_file": "koans/marky_koan_19.wav"
+    },
+    {
+      "id": "koan_20",
+      "persona": "Johnny",
+      "text": "Mercury is in retrograde, said the student. The master replied, so is every hour you spend looking for someone else to blame.",
+      "elevenlabs_text": "Mercury is in retrograde, said the student. The master replied, so is every hour you spend looking for someone else to blame.",
+      "exaggeration": 0.4,
+      "cfg_weight": 0.5,
+      "output_file": "koans/johnny_koan_20.wav"
+    },
+    {
+      "id": "koan_21",
+      "persona": "Marky",
+      "text": "The sound of one hand clapping is a mystery. The sound of two hands clapping is applause. The sound of no hands is the part where you stop needing either.",
+      "elevenlabs_text": "The sound of one hand clapping is a mystery. The sound of two hands clapping is applause. The sound of no hands is the part where you stop needing either.",
+      "exaggeration": 0.4,
+      "cfg_weight": 0.5,
+      "output_file": "koans/marky_koan_21.wav"
+    },
+    {
+      "id": "koan_22",
+      "persona": "Raff",
+      "text": "Water is patient, and water is also relentless, and those turn out to be the same thing. Be water. Or at least be damp.",
+      "elevenlabs_text": "Water is patient, and water is also relentless, and those turn out to be the same thing. Be water. Or at least be damp.",
+      "exaggeration": 0.4,
+      "cfg_weight": 0.5,
+      "output_file": "koans/raff_koan_22.wav"
+    },
+    {
+      "id": "koan_23",
+      "persona": "Marky",
+      "text": "You cannot be late to your own life. The clock is a story you tell the river about itself.",
+      "elevenlabs_text": "You cannot be late to your own life. The clock is a story you tell the river about itself.",
+      "exaggeration": 0.4,
+      "cfg_weight": 0.5,
+      "output_file": "koans/marky_koan_23.wav"
+    },
+    {
+      "id": "koan_24",
+      "persona": "Raff",
+      "text": "The wise guy sat with the stranger for an hour and said nothing. The stranger left healed. The wise guy sent an invoice anyway.",
+      "elevenlabs_text": "The wise guy sat with the stranger for an hour and said nothing. The stranger left healed. The wise guy sent an invoice anyway.",
+      "exaggeration": 0.4,
+      "cfg_weight": 0.5,
+      "output_file": "koans/raff_koan_24.wav"
+    }
+  ]
+}

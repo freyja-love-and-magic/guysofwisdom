@@ -1,0 +1,24 @@
+{
+  "name": "guysofwisdom",
+  "version": "0.1.0",
+  "description": "Woo woo koans, spoken to you by wise guys. First four free.",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "build": "esbuild client/main.js --bundle --minify --format=iife --outfile=public/app.js",
+    "start": "node src/server.js",
+    "test": "node --test test/*.test.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "sessionless-node": "^0.11.0"
+  },
+  "devDependencies": {
+    "@noble/curves": "^1.8.1",
+    "@noble/hashes": "^1.7.1",
+    "esbuild": "^0.25.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

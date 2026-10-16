@@ -1,0 +1,244 @@
+{
+  "category": "affirmations",
+  "personas": {
+    "Marky": {
+      "reference_audio": "voices/marky.wav"
+    },
+    "Johnny": {
+      "reference_audio": "voices/johnny.wav"
+    },
+    "Leo": {
+      "reference_audio": "voices/leo.wav"
+    },
+    "Raff": {
+      "reference_audio": "voices/raff.wav"
+    }
+  },
+  "lines": [
+    {
+      "id": "affirmation_01",
+      "persona": "Marky",
+      "text": "You did good, kid. Real good.",
+      "elevenlabs_text": "[slowly] You did good, kid. Real good.",
+      "exaggeration": 0.4,
+      "cfg_weight": 0.5,
+      "output_file": "affirmations/marky_affirmation_01.wav"
+    },
+    {
+      "id": "affirmation_02",
+      "persona": "Marky",
+      "text": "I'm proud of you. And I don't say that to nobody.",
+      "elevenlabs_text": "[warmly] I'm proud of you. And I don't say that to nobody.",
+      "exaggeration": 0.5,
+      "cfg_weight": 0.5,
+      "output_file": "affirmations/marky_affirmation_02.wav"
+    },
+    {
+      "id": "affirmation_03",
+      "persona": "Marky",
+      "text": "You got a good head on your shoulders. Don't let nobody tell you different.",
+      "elevenlabs_text": "You got a good head on your shoulders. Don't let nobody tell you different.",
+      "exaggeration": 0.5,
+      "cfg_weight": 0.5,
+      "output_file": "affirmations/marky_affirmation_03.wav"
+    },
+    {
+      "id": "affirmation_04",
+      "persona": "Marky",
+      "text": "You remind me of me when I was young. That's a compliment.",
+      "elevenlabs_text": "[chuckles] You remind me of me when I was young. That's a compliment.",
+      "exaggeration": 0.5,
+      "cfg_weight": 0.5,
+      "output_file": "affirmations/marky_affirmation_04.wav"
+    },
+    {
+      "id": "affirmation_05",
+      "persona": "Marky",
+      "text": "That's class. That's what that is. Pure class.",
+      "elevenlabs_text": "That's class. That's what that is. Pure class.",
+      "exaggeration": 0.5,
+      "cfg_weight": 0.5,
+      "output_file": "affirmations/marky_affirmation_05.wav"
+    },
+    {
+      "id": "affirmation_06",
+      "persona": "Marky",
+      "text": "Ya know what? You earned this. Every bit of it.",
+      "elevenlabs_text": "[sighs] Ya know what? You earned this. Every bit of it.",
+      "exaggeration": 0.4,
+      "cfg_weight": 0.5,
+      "output_file": "affirmations/marky_affirmation_06.wav"
+    },
+    {
+      "id": "affirmation_07",
+      "persona": "Johnny",
+      "text": "Ayyy! Look at you! Look at this one!",
+      "elevenlabs_text": "[excited] Ayyy! Look at you! Look at this one!",
+      "exaggeration": 0.75,
+      "cfg_weight": 0.3,
+      "output_file": "affirmations/johnny_affirmation_07.wav"
+    },
+    {
+      "id": "affirmation_08",
+      "persona": "Johnny",
+      "text": "Are you kiddin' me?! That was beautiful!",
+      "elevenlabs_text": "[shouting] Are you kiddin' me?! That was beautiful!",
+      "exaggeration": 0.75,
+      "cfg_weight": 0.3,
+      "output_file": "affirmations/johnny_affirmation_08.wav"
+    },
+    {
+      "id": "affirmation_09",
+      "persona": "Johnny",
+      "text": "Anybody says a word against you, they deal with me. Capisce?",
+      "elevenlabs_text": "Anybody says a word against you, they deal with me. Capisce?",
+      "exaggeration": 0.5,
+      "cfg_weight": 0.5,
+      "output_file": "affirmations/johnny_affirmation_09.wav"
+    },
+    {
+      "id": "affirmation_10",
+      "persona": "Johnny",
+      "text": "You crushed it, alright? Crushed it! Nobody does it like you!",
+      "elevenlabs_text": "[fast] You crushed it, alright? Crushed it! Nobody does it like you!",
+      "exaggeration": 0.75,
+      "cfg_weight": 0.3,
+      "output_file": "affirmations/johnny_affirmation_10.wav"
+    },
+    {
+      "id": "affirmation_11",
+      "persona": "Johnny",
+      "text": "You got guts, I'll give you that. Real guts.",
+      "elevenlabs_text": "You got guts, I'll give you that. Real guts.",
+      "exaggeration": 0.5,
+      "cfg_weight": 0.5,
+      "output_file": "affirmations/johnny_affirmation_11.wav"
+    },
+    {
+      "id": "affirmation_12",
+      "persona": "Johnny",
+      "text": "Madonna mia, you're a natural!",
+      "elevenlabs_text": "[laughs] Madonna mia, you're a natural!",
+      "exaggeration": 0.75,
+      "cfg_weight": 0.3,
+      "output_file": "affirmations/johnny_affirmation_12.wav"
+    },
+    {
+      "id": "affirmation_13",
+      "persona": "Leo",
+      "text": "Sweetheart, you light up the whole room.",
+      "elevenlabs_text": "[warmly] Sweetheart, you light up the whole room.",
+      "exaggeration": 0.5,
+      "cfg_weight": 0.5,
+      "output_file": "affirmations/leo_affirmation_13.wav"
+    },
+    {
+      "id": "affirmation_14",
+      "persona": "Leo",
+      "text": "You know you're somethin' special, right? You know that.",
+      "elevenlabs_text": "[softly] You know you're somethin' special, right? You know that.",
+      "exaggeration": 0.4,
+      "cfg_weight": 0.5,
+      "output_file": "affirmations/leo_affirmation_14.wav"
+    },
+    {
+      "id": "affirmation_15",
+      "persona": "Leo",
+      "text": "Smart AND good lookin'? Come on, that ain't fair to the rest of us.",
+      "elevenlabs_text": "[chuckles] Smart AND good lookin'? Come on, that ain't fair to the rest of us.",
+      "exaggeration": 0.5,
+      "cfg_weight": 0.5,
+      "output_file": "affirmations/leo_affirmation_15.wav"
+    },
+    {
+      "id": "affirmation_16",
+      "persona": "Leo",
+      "text": "Take a breath. You're doin' fine. Better than fine.",
+      "elevenlabs_text": "Take a breath. You're doin' fine. Better than fine.",
+      "exaggeration": 0.5,
+      "cfg_weight": 0.5,
+      "output_file": "affirmations/leo_affirmation_16.wav"
+    },
+    {
+      "id": "affirmation_17",
+      "persona": "Leo",
+      "text": "Between you and me? You're my favorite.",
+      "elevenlabs_text": "[mischievously] Between you and me? You're my favorite.",
+      "exaggeration": 0.5,
+      "cfg_weight": 0.5,
+      "output_file": "affirmations/leo_affirmation_17.wav"
+    },
+    {
+      "id": "affirmation_18",
+      "persona": "Leo",
+      "text": "You handled that with style. Real elegant.",
+      "elevenlabs_text": "You handled that with style. Real elegant.",
+      "exaggeration": 0.5,
+      "cfg_weight": 0.5,
+      "output_file": "affirmations/leo_affirmation_18.wav"
+    },
+    {
+      "id": "affirmation_19",
+      "persona": "Raff",
+      "text": "Hey, who taught you to be this good? I wanna know.",
+      "elevenlabs_text": "[suspicious] Hey, who taught you to be this good? I wanna know.",
+      "exaggeration": 0.5,
+      "cfg_weight": 0.5,
+      "output_file": "affirmations/raff_affirmation_19.wav"
+    },
+    {
+      "id": "affirmation_20",
+      "persona": "Raff",
+      "text": "Oh, look at Mr. or Ms. Perfect over here. I'm kiddin', you're great.",
+      "elevenlabs_text": "[sarcastic] Oh, look at Mr. or Ms. Perfect over here. [laughs] I'm kiddin', you're great.",
+      "exaggeration": 0.75,
+      "cfg_weight": 0.3,
+      "output_file": "affirmations/raff_affirmation_20.wav"
+    },
+    {
+      "id": "affirmation_21",
+      "persona": "Raff",
+      "text": "I'm tellin' ya, you got the luck. I can feel it.",
+      "elevenlabs_text": "[whispers] I'm tellin' ya, you got the luck. I can feel it.",
+      "exaggeration": 0.4,
+      "cfg_weight": 0.5,
+      "output_file": "affirmations/raff_affirmation_21.wav"
+    },
+    {
+      "id": "affirmation_22",
+      "persona": "Raff",
+      "text": "You're sharp. Sharper than my good comb, and that's sayin' somethin'.",
+      "elevenlabs_text": "You're sharp. Sharper than my good comb, and that's sayin' somethin'.",
+      "exaggeration": 0.5,
+      "cfg_weight": 0.5,
+      "output_file": "affirmations/raff_affirmation_22.wav"
+    },
+    {
+      "id": "affirmation_23",
+      "persona": "Raff",
+      "text": "They doubted you? Bunch of mooks. Look at you now.",
+      "elevenlabs_text": "[scoffs] They doubted you? Bunch of mooks. Look at you now.",
+      "exaggeration": 0.5,
+      "cfg_weight": 0.5,
+      "output_file": "affirmations/raff_affirmation_23.wav"
+    },
+    {
+      "id": "affirmation_24",
+      "persona": "Raff",
+      "text": "Ohhh! There it is! That's what I'm talkin' about!",
+      "elevenlabs_text": "Ohhh! [excited] There it is! That's what I'm talkin' about!",
+      "exaggeration": 0.75,
+      "cfg_weight": 0.3,
+      "output_file": "affirmations/raff_affirmation_24.wav"
+    },
+    {
+      "id": "affirmation_25",
+      "persona": "Marky",
+      "text": "You stick with us. You're family now.",
+      "elevenlabs_text": "You stick with us. You're family now.",
+      "exaggeration": 0.5,
+      "cfg_weight": 0.5,
+      "output_file": "affirmations/marky_affirmation_25.wav"
+    }
+  ]
+}

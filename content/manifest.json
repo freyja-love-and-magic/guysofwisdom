@@ -1,0 +1,695 @@
+[
+ {
+  "id": "koan_01",
+  "category": "koans",
+  "persona": "Leo",
+  "text": "A student asked the guru, where does the moon go in the daytime? The guru said, where does your attention go when you are not looking at it? The student looked, and the moon was there.",
+  "audio": "audio/koans/leo_koan_01.mp3"
+ },
+ {
+  "id": "koan_02",
+  "category": "koans",
+  "persona": "Marky",
+  "text": "The river does not rush to the ocean. The ocean is already inside the river. Stop swimming, and notice what is carrying you.",
+  "audio": "audio/koans/marky_koan_02.mp3"
+ },
+ {
+  "id": "koan_03",
+  "category": "koans",
+  "persona": "Johnny",
+  "text": "You are not a drop in the ocean. You are the entire ocean in a drop. So stop apologizing for being small.",
+  "audio": "audio/koans/johnny_koan_03.mp3"
+ },
+ {
+  "id": "koan_04",
+  "category": "koans",
+  "persona": "Raff",
+  "text": "A seeker climbed the mountain to ask what the universe wants. The wind answered, nothing. The seeker was disappointed, and then relieved.",
+  "audio": "audio/koans/raff_koan_04.mp3"
+ },
+ {
+  "id": "koan_05",
+  "category": "koans",
+  "persona": "Marky",
+  "text": "Before you can empty your cup, you must admit it was never yours. Whose cup is it, then? Drink anyway.",
+  "audio": "audio/koans/marky_koan_05.mp3"
+ },
+ {
+  "id": "koan_06",
+  "category": "koans",
+  "persona": "Leo",
+  "text": "The crystal does not hold the light. The crystal is the light, agreeing to be slow for a while.",
+  "audio": "audio/koans/leo_koan_06.mp3"
+ },
+ {
+  "id": "koan_07",
+  "category": "koans",
+  "persona": "Marky",
+  "text": "If a tree falls in the forest and nobody hears it, the forest hears it. You are the forest. Why are you pretending you are only the listener?",
+  "audio": "audio/koans/marky_koan_07.mp3"
+ },
+ {
+  "id": "koan_08",
+  "category": "koans",
+  "persona": "Raff",
+  "text": "The master said, the answer is in the silence between your thoughts. The student said, I do not have any silence. The master said, then that is the answer.",
+  "audio": "audio/koans/raff_koan_08.mp3"
+ },
+ {
+  "id": "koan_09",
+  "category": "koans",
+  "persona": "Leo",
+  "text": "Everything you want is already vibrating at your frequency. You are not looking for it. You are tuning out of the static you built to avoid it.",
+  "audio": "audio/koans/leo_koan_09.mp3"
+ },
+ {
+  "id": "koan_10",
+  "category": "koans",
+  "persona": "Raff",
+  "text": "Two monks argued over whether the flag moved or the wind moved. A third monk said, it is your mind that is waving. The first two monks stopped speaking to him.",
+  "audio": "audio/koans/raff_koan_10.mp3"
+ },
+ {
+  "id": "koan_11",
+  "category": "koans",
+  "persona": "Leo",
+  "text": "Your aura is not a color. Your aura is the weather inside the room where you live. Open a window.",
+  "audio": "audio/koans/leo_koan_11.mp3"
+ },
+ {
+  "id": "koan_12",
+  "category": "koans",
+  "persona": "Johnny",
+  "text": "The student asked, how long until I am enlightened? The teacher said, how long until you are done being someone who is not? The student asked for a shorter answer. The teacher said, now.",
+  "audio": "audio/koans/johnny_koan_12.mp3"
+ },
+ {
+  "id": "koan_13",
+  "category": "koans",
+  "persona": "Leo",
+  "text": "The stars are not far away. Distance is just the universe's way of giving you something to walk toward.",
+  "audio": "audio/koans/leo_koan_13.mp3"
+ },
+ {
+  "id": "koan_14",
+  "category": "koans",
+  "persona": "Raff",
+  "text": "A man spent forty years seeking his true self. He found it sitting on the porch waiting for him, slightly annoyed at the delay.",
+  "audio": "audio/koans/raff_koan_14.mp3"
+ },
+ {
+  "id": "koan_15",
+  "category": "koans",
+  "persona": "Leo",
+  "text": "Gravity is the earth saying I love you, and you saying I know, and neither of you ever letting go.",
+  "audio": "audio/koans/leo_koan_15.mp3"
+ },
+ {
+  "id": "koan_16",
+  "category": "koans",
+  "persona": "Marky",
+  "text": "When the mind is a still pond, the sky can finally see itself. Do not throw a stone to check if the pond is working.",
+  "audio": "audio/koans/marky_koan_16.mp3"
+ },
+ {
+  "id": "koan_17",
+  "category": "koans",
+  "persona": "Raff",
+  "text": "The teacher held up an empty hand. The student said, it is empty. The teacher said, look again. The student said, it is full of hand.",
+  "audio": "audio/koans/raff_koan_17.mp3"
+ },
+ {
+  "id": "koan_18",
+  "category": "koans",
+  "persona": "Johnny",
+  "text": "Every breath is a small birth and a small death. You have done this thousands of times today without applause. Take a bow.",
+  "audio": "audio/koans/johnny_koan_18.mp3"
+ },
+ {
+  "id": "koan_19",
+  "category": "koans",
+  "persona": "Marky",
+  "text": "Chasing the universe's plan is like chasing your own shadow at noon. Stand still, and notice it was always under you.",
+  "audio": "audio/koans/marky_koan_19.mp3"
+ },
+ {
+  "id": "koan_20",
+  "category": "koans",
+  "persona": "Johnny",
+  "text": "Mercury is in retrograde, said the student. The master replied, so is every hour you spend looking for someone else to blame.",
+  "audio": "audio/koans/johnny_koan_20.mp3"
+ },
+ {
+  "id": "koan_21",
+  "category": "koans",
+  "persona": "Marky",
+  "text": "The sound of one hand clapping is a mystery. The sound of two hands clapping is applause. The sound of no hands is the part where you stop needing either.",
+  "audio": "audio/koans/marky_koan_21.mp3"
+ },
+ {
+  "id": "koan_22",
+  "category": "koans",
+  "persona": "Raff",
+  "text": "Water is patient, and water is also relentless, and those turn out to be the same thing. Be water. Or at least be damp.",
+  "audio": "audio/koans/raff_koan_22.mp3"
+ },
+ {
+  "id": "koan_23",
+  "category": "koans",
+  "persona": "Marky",
+  "text": "You cannot be late to your own life. The clock is a story you tell the river about itself.",
+  "audio": "audio/koans/marky_koan_23.mp3"
+ },
+ {
+  "id": "koan_24",
+  "category": "koans",
+  "persona": "Raff",
+  "text": "The wise guy sat with the stranger for an hour and said nothing. The stranger left healed. The wise guy sent an invoice anyway.",
+  "audio": "audio/koans/raff_koan_24.mp3"
+ },
+ {
+  "id": "affirmation_01",
+  "category": "affirmations",
+  "persona": "Marky",
+  "text": "You did good, kid. Real good.",
+  "audio": "audio/affirmations/marky_affirmation_01.mp3"
+ },
+ {
+  "id": "affirmation_02",
+  "category": "affirmations",
+  "persona": "Marky",
+  "text": "I'm proud of you. And I don't say that to nobody.",
+  "audio": "audio/affirmations/marky_affirmation_02.mp3"
+ },
+ {
+  "id": "affirmation_03",
+  "category": "affirmations",
+  "persona": "Marky",
+  "text": "You got a good head on your shoulders. Don't let nobody tell you different.",
+  "audio": "audio/affirmations/marky_affirmation_03.mp3"
+ },
+ {
+  "id": "affirmation_04",
+  "category": "affirmations",
+  "persona": "Marky",
+  "text": "You remind me of me when I was young. That's a compliment.",
+  "audio": "audio/affirmations/marky_affirmation_04.mp3"
+ },
+ {
+  "id": "affirmation_05",
+  "category": "affirmations",
+  "persona": "Marky",
+  "text": "That's class. That's what that is. Pure class.",
+  "audio": "audio/affirmations/marky_affirmation_05.mp3"
+ },
+ {
+  "id": "affirmation_06",
+  "category": "affirmations",
+  "persona": "Marky",
+  "text": "Ya know what? You earned this. Every bit of it.",
+  "audio": "audio/affirmations/marky_affirmation_06.mp3"
+ },
+ {
+  "id": "affirmation_07",
+  "category": "affirmations",
+  "persona": "Johnny",
+  "text": "Ayyy! Look at you! Look at this one!",
+  "audio": "audio/affirmations/johnny_affirmation_07.mp3"
+ },
+ {
+  "id": "affirmation_08",
+  "category": "affirmations",
+  "persona": "Johnny",
+  "text": "Are you kiddin' me?! That was beautiful!",
+  "audio": "audio/affirmations/johnny_affirmation_08.mp3"
+ },
+ {
+  "id": "affirmation_09",
+  "category": "affirmations",
+  "persona": "Johnny",
+  "text": "Anybody says a word against you, they deal with me. Capisce?",
+  "audio": "audio/affirmations/johnny_affirmation_09.mp3"
+ },
+ {
+  "id": "affirmation_10",
+  "category": "affirmations",
+  "persona": "Johnny",
+  "text": "You crushed it, alright? Crushed it! Nobody does it like you!",
+  "audio": "audio/affirmations/johnny_affirmation_10.mp3"
+ },
+ {
+  "id": "affirmation_11",
+  "category": "affirmations",
+  "persona": "Johnny",
+  "text": "You got guts, I'll give you that. Real guts.",
+  "audio": "audio/affirmations/johnny_affirmation_11.mp3"
+ },
+ {
+  "id": "affirmation_12",
+  "category": "affirmations",
+  "persona": "Johnny",
+  "text": "Madonna mia, you're a natural!",
+  "audio": "audio/affirmations/johnny_affirmation_12.mp3"
+ },
+ {
+  "id": "affirmation_13",
+  "category": "affirmations",
+  "persona": "Leo",
+  "text": "Sweetheart, you light up the whole room.",
+  "audio": "audio/affirmations/leo_affirmation_13.mp3"
+ },
+ {
+  "id": "affirmation_14",
+  "category": "affirmations",
+  "persona": "Leo",
+  "text": "You know you're somethin' special, right? You know that.",
+  "audio": "audio/affirmations/leo_affirmation_14.mp3"
+ },
+ {
+  "id": "affirmation_15",
+  "category": "affirmations",
+  "persona": "Leo",
+  "text": "Smart AND good lookin'? Come on, that ain't fair to the rest of us.",
+  "audio": "audio/affirmations/leo_affirmation_15.mp3"
+ },
+ {
+  "id": "affirmation_16",
+  "category": "affirmations",
+  "persona": "Leo",
+  "text": "Take a breath. You're doin' fine. Better than fine.",
+  "audio": "audio/affirmations/leo_affirmation_16.mp3"
+ },
+ {
+  "id": "affirmation_17",
+  "category": "affirmations",
+  "persona": "Leo",
+  "text": "Between you and me? You're my favorite.",
+  "audio": "audio/affirmations/leo_affirmation_17.mp3"
+ },
+ {
+  "id": "affirmation_18",
+  "category": "affirmations",
+  "persona": "Leo",
+  "text": "You handled that with style. Real elegant.",
+  "audio": "audio/affirmations/leo_affirmation_18.mp3"
+ },
+ {
+  "id": "affirmation_19",
+  "category": "affirmations",
+  "persona": "Raff",
+  "text": "Hey, who taught you to be this good? I wanna know.",
+  "audio": "audio/affirmations/raff_affirmation_19.mp3"
+ },
+ {
+  "id": "affirmation_20",
+  "category": "affirmations",
+  "persona": "Raff",
+  "text": "Oh, look at Mr. or Ms. Perfect over here. I'm kiddin', you're great.",
+  "audio": "audio/affirmations/raff_affirmation_20.mp3"
+ },
+ {
+  "id": "affirmation_21",
+  "category": "affirmations",
+  "persona": "Raff",
+  "text": "I'm tellin' ya, you got the luck. I can feel it.",
+  "audio": "audio/affirmations/raff_affirmation_21.mp3"
+ },
+ {
+  "id": "affirmation_22",
+  "category": "affirmations",
+  "persona": "Raff",
+  "text": "You're sharp. Sharper than my good comb, and that's sayin' somethin'.",
+  "audio": "audio/affirmations/raff_affirmation_22.mp3"
+ },
+ {
+  "id": "affirmation_23",
+  "category": "affirmations",
+  "persona": "Raff",
+  "text": "They doubted you? Bunch of mooks. Look at you now.",
+  "audio": "audio/affirmations/raff_affirmation_23.mp3"
+ },
+ {
+  "id": "affirmation_24",
+  "category": "affirmations",
+  "persona": "Raff",
+  "text": "Ohhh! There it is! That's what I'm talkin' about!",
+  "audio": "audio/affirmations/raff_affirmation_24.mp3"
+ },
+ {
+  "id": "affirmation_25",
+  "category": "affirmations",
+  "persona": "Marky",
+  "text": "You stick with us. You're family now.",
+  "audio": "audio/affirmations/marky_affirmation_25.mp3"
+ },
+ {
+  "id": "astro_01",
+  "category": "astrology",
+  "persona": "Raff",
+  "text": "The stars are lined up for you today. I checked. Twice.",
+  "audio": "audio/astrology/raff_astro_01.mp3"
+ },
+ {
+  "id": "astro_02",
+  "category": "astrology",
+  "persona": "Raff",
+  "text": "Mercury's outta retrograde. Finally. Now nobody can touch you.",
+  "audio": "audio/astrology/raff_astro_02.mp3"
+ },
+ {
+  "id": "astro_03",
+  "category": "astrology",
+  "persona": "Raff",
+  "text": "Full moon tonight. Ohhh, that's your moon, baby!",
+  "audio": "audio/astrology/raff_astro_03.mp3"
+ },
+ {
+  "id": "astro_04",
+  "category": "astrology",
+  "persona": "Raff",
+  "text": "Some people got luck. You? You got the whole Zodiac workin' for ya.",
+  "audio": "audio/astrology/raff_astro_04.mp3"
+ },
+ {
+  "id": "astro_05",
+  "category": "astrology",
+  "persona": "Raff",
+  "text": "I don't trust nobody, but I trust your chart. That chart's clean.",
+  "audio": "audio/astrology/raff_astro_05.mp3"
+ },
+ {
+  "id": "astro_06",
+  "category": "astrology",
+  "persona": "Raff",
+  "text": "Venus is in your corner. Don't ask me how I know. I know.",
+  "audio": "audio/astrology/raff_astro_06.mp3"
+ },
+ {
+  "id": "astro_07",
+  "category": "astrology",
+  "persona": "Raff",
+  "text": "Bad luck? Not this week. The planets owe you one.",
+  "audio": "audio/astrology/raff_astro_07.mp3"
+ },
+ {
+  "id": "astro_08",
+  "category": "astrology",
+  "persona": "Marky",
+  "text": "The stars been around a long time, kid. And they're smilin' on you.",
+  "audio": "audio/astrology/marky_astro_08.mp3"
+ },
+ {
+  "id": "astro_09",
+  "category": "astrology",
+  "persona": "Marky",
+  "text": "Your sun sign says leader. I coulda told ya that myself.",
+  "audio": "audio/astrology/marky_astro_09.mp3"
+ },
+ {
+  "id": "astro_10",
+  "category": "astrology",
+  "persona": "Marky",
+  "text": "When Jupiter moves, good things follow. And Jupiter's movin'.",
+  "audio": "audio/astrology/marky_astro_10.mp3"
+ },
+ {
+  "id": "astro_11",
+  "category": "astrology",
+  "persona": "Marky",
+  "text": "I seen a lotta charts in my day. Yours? Yours is somethin'.",
+  "audio": "audio/astrology/marky_astro_11.mp3"
+ },
+ {
+  "id": "astro_12",
+  "category": "astrology",
+  "persona": "Marky",
+  "text": "Saturn tests ya. You passed. Now you collect.",
+  "audio": "audio/astrology/marky_astro_12.mp3"
+ },
+ {
+  "id": "astro_13",
+  "category": "astrology",
+  "persona": "Marky",
+  "text": "The heavens don't make mistakes. And they made you.",
+  "audio": "audio/astrology/marky_astro_13.mp3"
+ },
+ {
+  "id": "astro_14",
+  "category": "astrology",
+  "persona": "Johnny",
+  "text": "Mars is fired up, and so are you! Let's go!",
+  "audio": "audio/astrology/johnny_astro_14.mp3"
+ },
+ {
+  "id": "astro_15",
+  "category": "astrology",
+  "persona": "Johnny",
+  "text": "New moon, new start! Whatever you want, go get it!",
+  "audio": "audio/astrology/johnny_astro_15.mp3"
+ },
+ {
+  "id": "astro_16",
+  "category": "astrology",
+  "persona": "Johnny",
+  "text": "Who says the universe ain't on your side? Bring 'em to me!",
+  "audio": "audio/astrology/johnny_astro_16.mp3"
+ },
+ {
+  "id": "astro_17",
+  "category": "astrology",
+  "persona": "Johnny",
+  "text": "The stars said today's your day. Don't make me argue with the stars.",
+  "audio": "audio/astrology/johnny_astro_17.mp3"
+ },
+ {
+  "id": "astro_18",
+  "category": "astrology",
+  "persona": "Johnny",
+  "text": "Eclipse season and you're still shinin'? Madonna!",
+  "audio": "audio/astrology/johnny_astro_18.mp3"
+ },
+ {
+  "id": "astro_19",
+  "category": "astrology",
+  "persona": "Leo",
+  "text": "Venus is lookin' at you, sweetheart. Can't blame her.",
+  "audio": "audio/astrology/leo_astro_19.mp3"
+ },
+ {
+  "id": "astro_20",
+  "category": "astrology",
+  "persona": "Leo",
+  "text": "The moon's in your sign tonight. Take it slow. Enjoy it.",
+  "audio": "audio/astrology/leo_astro_20.mp3"
+ },
+ {
+  "id": "astro_21",
+  "category": "astrology",
+  "persona": "Leo",
+  "text": "Your rising sign? Gorgeous. Just like the rest of ya.",
+  "audio": "audio/astrology/leo_astro_21.mp3"
+ },
+ {
+  "id": "astro_22",
+  "category": "astrology",
+  "persona": "Leo",
+  "text": "Even the constellations are takin' notes on you.",
+  "audio": "audio/astrology/leo_astro_22.mp3"
+ },
+ {
+  "id": "astro_23",
+  "category": "astrology",
+  "persona": "Leo",
+  "text": "Relax. The cosmos got a plan for you, and it's a good one.",
+  "audio": "audio/astrology/leo_astro_23.mp3"
+ },
+ {
+  "id": "astro_24",
+  "category": "astrology",
+  "persona": "Leo",
+  "text": "You're made of stardust, you know that? The good kind.",
+  "audio": "audio/astrology/leo_astro_24.mp3"
+ },
+ {
+  "id": "astro_25",
+  "category": "astrology",
+  "persona": "Marky",
+  "text": "Whatever's written up there for you... it's written in gold.",
+  "audio": "audio/astrology/marky_astro_25.mp3"
+ },
+ {
+  "id": "pumpup_01",
+  "category": "pumpup",
+  "persona": "Johnny",
+  "text": "Get up! Get UP! The day ain't gonna grind itself!",
+  "audio": "audio/pumpup/johnny_pumpup_01.mp3"
+ },
+ {
+  "id": "pumpup_02",
+  "category": "pumpup",
+  "persona": "Johnny",
+  "text": "Coffee. Shower. Domination. In that order. Let's go!",
+  "audio": "audio/pumpup/johnny_pumpup_02.mp3"
+ },
+ {
+  "id": "pumpup_03",
+  "category": "pumpup",
+  "persona": "Johnny",
+  "text": "You feel that? That's the fire, baby! Feed it!",
+  "audio": "audio/pumpup/johnny_pumpup_03.mp3"
+ },
+ {
+  "id": "pumpup_04",
+  "category": "pumpup",
+  "persona": "Johnny",
+  "text": "Nobody's handin' you nothin'. So you go out there and you TAKE it!",
+  "audio": "audio/pumpup/johnny_pumpup_04.mp3"
+ },
+ {
+  "id": "pumpup_05",
+  "category": "pumpup",
+  "persona": "Johnny",
+  "text": "Tired? Tired's for mooks! You ain't a mook!",
+  "audio": "audio/pumpup/johnny_pumpup_05.mp3"
+ },
+ {
+  "id": "pumpup_06",
+  "category": "pumpup",
+  "persona": "Johnny",
+  "text": "Snooze button? Fuhgeddaboudit. Feet on the floor. Now!",
+  "audio": "audio/pumpup/johnny_pumpup_06.mp3"
+ },
+ {
+  "id": "pumpup_07",
+  "category": "pumpup",
+  "persona": "Johnny",
+  "text": "One more rep! Then another one! Then I'll tell ya when to stop!",
+  "audio": "audio/pumpup/johnny_pumpup_07.mp3"
+ },
+ {
+  "id": "pumpup_08",
+  "category": "pumpup",
+  "persona": "Marky",
+  "text": "Every mornin', you wake up hungry. That's how empires get built.",
+  "audio": "audio/pumpup/marky_pumpup_08.mp3"
+ },
+ {
+  "id": "pumpup_09",
+  "category": "pumpup",
+  "persona": "Marky",
+  "text": "I started with nothin'. Nothin'. You got more than I had. Use it.",
+  "audio": "audio/pumpup/marky_pumpup_09.mp3"
+ },
+ {
+  "id": "pumpup_10",
+  "category": "pumpup",
+  "persona": "Marky",
+  "text": "Comfort's a trap, kid. The work? The work sets you free.",
+  "audio": "audio/pumpup/marky_pumpup_10.mp3"
+ },
+ {
+  "id": "pumpup_11",
+  "category": "pumpup",
+  "persona": "Marky",
+  "text": "Discipline. Loyalty. Hustle. You do those three, you never go hungry.",
+  "audio": "audio/pumpup/marky_pumpup_11.mp3"
+ },
+ {
+  "id": "pumpup_12",
+  "category": "pumpup",
+  "persona": "Marky",
+  "text": "Sweat now, or bleed later. Your choice.",
+  "audio": "audio/pumpup/marky_pumpup_12.mp3"
+ },
+ {
+  "id": "pumpup_13",
+  "category": "pumpup",
+  "persona": "Marky",
+  "text": "Show up every day. That's ninety percent of it. The rest is guts.",
+  "audio": "audio/pumpup/marky_pumpup_13.mp3"
+ },
+ {
+  "id": "pumpup_14",
+  "category": "pumpup",
+  "persona": "Leo",
+  "text": "Rise and grind, sweetheart. And look good doin' it.",
+  "audio": "audio/pumpup/leo_pumpup_14.mp3"
+ },
+ {
+  "id": "pumpup_15",
+  "category": "pumpup",
+  "persona": "Leo",
+  "text": "Winners don't wait for the mood. They make the mood.",
+  "audio": "audio/pumpup/leo_pumpup_15.mp3"
+ },
+ {
+  "id": "pumpup_16",
+  "category": "pumpup",
+  "persona": "Leo",
+  "text": "Dress like you already own the place. Then go buy it.",
+  "audio": "audio/pumpup/leo_pumpup_16.mp3"
+ },
+ {
+  "id": "pumpup_17",
+  "category": "pumpup",
+  "persona": "Leo",
+  "text": "Big day ahead. Stand up straight. Walk in like you belong.",
+  "audio": "audio/pumpup/leo_pumpup_17.mp3"
+ },
+ {
+  "id": "pumpup_18",
+  "category": "pumpup",
+  "persona": "Leo",
+  "text": "Smile at the competition. Then outwork 'em. That's style.",
+  "audio": "audio/pumpup/leo_pumpup_18.mp3"
+ },
+ {
+  "id": "pumpup_19",
+  "category": "pumpup",
+  "persona": "Raff",
+  "text": "Everybody else is sleepin'. You know what that means? We're already winnin'.",
+  "audio": "audio/pumpup/raff_pumpup_19.mp3"
+ },
+ {
+  "id": "pumpup_20",
+  "category": "pumpup",
+  "persona": "Raff",
+  "text": "The early bird gets the worm. And I'm tellin' ya, I love worms.",
+  "audio": "audio/pumpup/raff_pumpup_20.mp3"
+ },
+ {
+  "id": "pumpup_21",
+  "category": "pumpup",
+  "persona": "Raff",
+  "text": "Oh, you're gonna skip the gym? Sure. And I'm the Pope.",
+  "audio": "audio/pumpup/raff_pumpup_21.mp3"
+ },
+ {
+  "id": "pumpup_22",
+  "category": "pumpup",
+  "persona": "Raff",
+  "text": "Doubters? Let 'em talk. Then let 'em watch.",
+  "audio": "audio/pumpup/raff_pumpup_22.mp3"
+ },
+ {
+  "id": "pumpup_23",
+  "category": "pumpup",
+  "persona": "Raff",
+  "text": "Hair done, shoes shined, attitude locked in. Now we go to work.",
+  "audio": "audio/pumpup/raff_pumpup_23.mp3"
+ },
+ {
+  "id": "pumpup_24",
+  "category": "pumpup",
+  "persona": "Raff",
+  "text": "Ohhh! Look at this one! Up before the sun!",
+  "audio": "audio/pumpup/raff_pumpup_24.mp3"
+ },
+ {
+  "id": "pumpup_25",
+  "category": "pumpup",
+  "persona": "Marky",
+  "text": "Pressure makes diamonds, kid. And you? You're a diamond.",
+  "audio": "audio/pumpup/marky_pumpup_25.mp3"
+ }
+]

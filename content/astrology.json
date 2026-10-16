@@ -1,0 +1,244 @@
+{
+  "category": "astrology",
+  "personas": {
+    "Marky": {
+      "reference_audio": "voices/marky.wav"
+    },
+    "Johnny": {
+      "reference_audio": "voices/johnny.wav"
+    },
+    "Leo": {
+      "reference_audio": "voices/leo.wav"
+    },
+    "Raff": {
+      "reference_audio": "voices/raff.wav"
+    }
+  },
+  "lines": [
+    {
+      "id": "astro_01",
+      "persona": "Raff",
+      "text": "The stars are lined up for you today. I checked. Twice.",
+      "elevenlabs_text": "[whispers] The stars are lined up for you today. I checked. Twice.",
+      "exaggeration": 0.4,
+      "cfg_weight": 0.5,
+      "output_file": "astrology/raff_astro_01.wav"
+    },
+    {
+      "id": "astro_02",
+      "persona": "Raff",
+      "text": "Mercury's outta retrograde. Finally. Now nobody can touch you.",
+      "elevenlabs_text": "[suspicious] Mercury's outta retrograde. Finally. Now nobody can touch you.",
+      "exaggeration": 0.5,
+      "cfg_weight": 0.5,
+      "output_file": "astrology/raff_astro_02.wav"
+    },
+    {
+      "id": "astro_03",
+      "persona": "Raff",
+      "text": "Full moon tonight. Ohhh, that's your moon, baby!",
+      "elevenlabs_text": "Full moon tonight. [excited] Ohhh, that's your moon, baby!",
+      "exaggeration": 0.75,
+      "cfg_weight": 0.3,
+      "output_file": "astrology/raff_astro_03.wav"
+    },
+    {
+      "id": "astro_04",
+      "persona": "Raff",
+      "text": "Some people got luck. You? You got the whole Zodiac workin' for ya.",
+      "elevenlabs_text": "[sarcastic] Some people got luck. You? You got the whole Zodiac workin' for ya.",
+      "exaggeration": 0.5,
+      "cfg_weight": 0.5,
+      "output_file": "astrology/raff_astro_04.wav"
+    },
+    {
+      "id": "astro_05",
+      "persona": "Raff",
+      "text": "I don't trust nobody, but I trust your chart. That chart's clean.",
+      "elevenlabs_text": "I don't trust nobody, but I trust your chart. That chart's clean.",
+      "exaggeration": 0.5,
+      "cfg_weight": 0.5,
+      "output_file": "astrology/raff_astro_05.wav"
+    },
+    {
+      "id": "astro_06",
+      "persona": "Raff",
+      "text": "Venus is in your corner. Don't ask me how I know. I know.",
+      "elevenlabs_text": "[whispers] Venus is in your corner. Don't ask me how I know. I know.",
+      "exaggeration": 0.4,
+      "cfg_weight": 0.5,
+      "output_file": "astrology/raff_astro_06.wav"
+    },
+    {
+      "id": "astro_07",
+      "persona": "Raff",
+      "text": "Bad luck? Not this week. The planets owe you one.",
+      "elevenlabs_text": "[scoffs] Bad luck? Not this week. The planets owe you one.",
+      "exaggeration": 0.5,
+      "cfg_weight": 0.5,
+      "output_file": "astrology/raff_astro_07.wav"
+    },
+    {
+      "id": "astro_08",
+      "persona": "Marky",
+      "text": "The stars been around a long time, kid. And they're smilin' on you.",
+      "elevenlabs_text": "[slowly] The stars been around a long time, kid. And they're smilin' on you.",
+      "exaggeration": 0.4,
+      "cfg_weight": 0.5,
+      "output_file": "astrology/marky_astro_08.wav"
+    },
+    {
+      "id": "astro_09",
+      "persona": "Marky",
+      "text": "Your sun sign says leader. I coulda told ya that myself.",
+      "elevenlabs_text": "Your sun sign says leader. I coulda told ya that myself.",
+      "exaggeration": 0.5,
+      "cfg_weight": 0.5,
+      "output_file": "astrology/marky_astro_09.wav"
+    },
+    {
+      "id": "astro_10",
+      "persona": "Marky",
+      "text": "When Jupiter moves, good things follow. And Jupiter's movin'.",
+      "elevenlabs_text": "[warmly] When Jupiter moves, good things follow. And Jupiter's movin'.",
+      "exaggeration": 0.5,
+      "cfg_weight": 0.5,
+      "output_file": "astrology/marky_astro_10.wav"
+    },
+    {
+      "id": "astro_11",
+      "persona": "Marky",
+      "text": "I seen a lotta charts in my day. Yours? Yours is somethin'.",
+      "elevenlabs_text": "[sighs] I seen a lotta charts in my day. Yours? Yours is somethin'.",
+      "exaggeration": 0.4,
+      "cfg_weight": 0.5,
+      "output_file": "astrology/marky_astro_11.wav"
+    },
+    {
+      "id": "astro_12",
+      "persona": "Marky",
+      "text": "Saturn tests ya. You passed. Now you collect.",
+      "elevenlabs_text": "Saturn tests ya. You passed. Now you collect.",
+      "exaggeration": 0.5,
+      "cfg_weight": 0.5,
+      "output_file": "astrology/marky_astro_12.wav"
+    },
+    {
+      "id": "astro_13",
+      "persona": "Marky",
+      "text": "The heavens don't make mistakes. And they made you.",
+      "elevenlabs_text": "[chuckles] The heavens don't make mistakes. And they made you.",
+      "exaggeration": 0.5,
+      "cfg_weight": 0.5,
+      "output_file": "astrology/marky_astro_13.wav"
+    },
+    {
+      "id": "astro_14",
+      "persona": "Johnny",
+      "text": "Mars is fired up, and so are you! Let's go!",
+      "elevenlabs_text": "[excited] Mars is fired up, and so are you! Let's go!",
+      "exaggeration": 0.75,
+      "cfg_weight": 0.3,
+      "output_file": "astrology/johnny_astro_14.wav"
+    },
+    {
+      "id": "astro_15",
+      "persona": "Johnny",
+      "text": "New moon, new start! Whatever you want, go get it!",
+      "elevenlabs_text": "[fast] New moon, new start! Whatever you want, go get it!",
+      "exaggeration": 0.75,
+      "cfg_weight": 0.3,
+      "output_file": "astrology/johnny_astro_15.wav"
+    },
+    {
+      "id": "astro_16",
+      "persona": "Johnny",
+      "text": "Who says the universe ain't on your side? Bring 'em to me!",
+      "elevenlabs_text": "[shouting] Who says the universe ain't on your side? Bring 'em to me!",
+      "exaggeration": 0.75,
+      "cfg_weight": 0.3,
+      "output_file": "astrology/johnny_astro_16.wav"
+    },
+    {
+      "id": "astro_17",
+      "persona": "Johnny",
+      "text": "The stars said today's your day. Don't make me argue with the stars.",
+      "elevenlabs_text": "The stars said today's your day. Don't make me argue with the stars.",
+      "exaggeration": 0.5,
+      "cfg_weight": 0.5,
+      "output_file": "astrology/johnny_astro_17.wav"
+    },
+    {
+      "id": "astro_18",
+      "persona": "Johnny",
+      "text": "Eclipse season and you're still shinin'? Madonna!",
+      "elevenlabs_text": "[laughs] Eclipse season and you're still shinin'? Madonna!",
+      "exaggeration": 0.75,
+      "cfg_weight": 0.3,
+      "output_file": "astrology/johnny_astro_18.wav"
+    },
+    {
+      "id": "astro_19",
+      "persona": "Leo",
+      "text": "Venus is lookin' at you, sweetheart. Can't blame her.",
+      "elevenlabs_text": "[warmly] Venus is lookin' at you, sweetheart. Can't blame her.",
+      "exaggeration": 0.5,
+      "cfg_weight": 0.5,
+      "output_file": "astrology/leo_astro_19.wav"
+    },
+    {
+      "id": "astro_20",
+      "persona": "Leo",
+      "text": "The moon's in your sign tonight. Take it slow. Enjoy it.",
+      "elevenlabs_text": "[softly] The moon's in your sign tonight. Take it slow. Enjoy it.",
+      "exaggeration": 0.4,
+      "cfg_weight": 0.5,
+      "output_file": "astrology/leo_astro_20.wav"
+    },
+    {
+      "id": "astro_21",
+      "persona": "Leo",
+      "text": "Your rising sign? Gorgeous. Just like the rest of ya.",
+      "elevenlabs_text": "[mischievously] Your rising sign? Gorgeous. Just like the rest of ya.",
+      "exaggeration": 0.5,
+      "cfg_weight": 0.5,
+      "output_file": "astrology/leo_astro_21.wav"
+    },
+    {
+      "id": "astro_22",
+      "persona": "Leo",
+      "text": "Even the constellations are takin' notes on you.",
+      "elevenlabs_text": "[chuckles] Even the constellations are takin' notes on you.",
+      "exaggeration": 0.5,
+      "cfg_weight": 0.5,
+      "output_file": "astrology/leo_astro_22.wav"
+    },
+    {
+      "id": "astro_23",
+      "persona": "Leo",
+      "text": "Relax. The cosmos got a plan for you, and it's a good one.",
+      "elevenlabs_text": "Relax. The cosmos got a plan for you, and it's a good one.",
+      "exaggeration": 0.5,
+      "cfg_weight": 0.5,
+      "output_file": "astrology/leo_astro_23.wav"
+    },
+    {
+      "id": "astro_24",
+      "persona": "Leo",
+      "text": "You're made of stardust, you know that? The good kind.",
+      "elevenlabs_text": "[softly] You're made of stardust, you know that? The good kind.",
+      "exaggeration": 0.4,
+      "cfg_weight": 0.5,
+      "output_file": "astrology/leo_astro_24.wav"
+    },
+    {
+      "id": "astro_25",
+      "persona": "Marky",
+      "text": "Whatever's written up there for you... it's written in gold.",
+      "elevenlabs_text": "[slowly] Whatever's written up there for you... it's written in gold.",
+      "exaggeration": 0.4,
+      "cfg_weight": 0.5,
+      "output_file": "astrology/marky_astro_25.wav"
+    }
+  ]
+}

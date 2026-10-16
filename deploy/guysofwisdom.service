@@ -1,0 +1,13 @@
+[Unit]
+Description=Guys of Wisdom web app
+After=network.target
+
+[Service]
+WorkingDirectory=/opt/guysofwisdom
+EnvironmentFile=/etc/guysofwisdom.env
+ExecStart=/usr/bin/node src/server.js
+Restart=always
+User=guys
+
+[Install]
+WantedBy=multi-user.target
